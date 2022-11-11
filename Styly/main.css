@@ -53,7 +53,11 @@
     text-decoration: none;
     font-weight: bold;
 }
+.btn:hover {
+    border: 0.1em solid #000000;
+}
 .card__price {
+    text-decoration: none;
     font-weight: 700;
     font-size: 1.5em;
     color: rgb(70, 67, 67);
@@ -63,6 +67,8 @@
     font-weight: 400;
     font-size: 1em;
     text-align: center;
+    text-decoration: none;
+    color: black;
 }
 .card__picture {
     padding-top: 1.5em;
