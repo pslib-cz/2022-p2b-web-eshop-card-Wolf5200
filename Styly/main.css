@@ -31,6 +31,7 @@
 .card__block {
     text-align: center;
     display: flex;
+    margin: 0 auto;
 }
 .card__foot {
     text-align: center;
