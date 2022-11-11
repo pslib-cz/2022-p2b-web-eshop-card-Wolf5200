@@ -30,7 +30,7 @@
 }
 .card__block {
     text-align: center;
-    flex-grow: 1;
+    display: flex;
 }
 .card__foot {
     text-align: center;
@@ -69,6 +69,7 @@
     text-align: center;
     text-decoration: none;
     color: black;
+    flex-grow: 1;
 }
 .card__picture {
     padding-top: 1.5em;
