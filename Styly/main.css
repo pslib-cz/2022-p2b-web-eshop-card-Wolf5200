@@ -32,6 +32,7 @@
     text-align: center;
     display: flex;
     margin: 0 auto;
+    flex-direction: column;
 }
 .card__foot {
     text-align: center;
@@ -53,6 +54,10 @@
     color: blue;
     text-decoration: none;
     font-weight: bold;
+}
+.card__button {
+    padding-left: 10em;
+    padding-right: 10em;
 }
 .btn:hover {
     border: 0.1em solid #000000;
