@@ -69,10 +69,9 @@
     text-align: center;
     text-decoration: none;
     color: black;
-    flex-grow: 1;
+    flex-grow: 10;
 }
 .card__picture {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    max-width: 250px;
 }
